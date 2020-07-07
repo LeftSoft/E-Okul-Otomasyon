@@ -1,0 +1,33 @@
+c:\users\ogrenci1\documents\visual studio 2013\Projects\E-Okul_Otomasyon\E-Okul_Otomasyon\bin\Debug\E-Okul_Otomasyon.exe.config
+c:\users\ogrenci1\documents\visual studio 2013\Projects\E-Okul_Otomasyon\E-Okul_Otomasyon\bin\Debug\E-Okul_Otomasyon.exe
+c:\users\ogrenci1\documents\visual studio 2013\Projects\E-Okul_Otomasyon\E-Okul_Otomasyon\bin\Debug\E-Okul_Otomasyon.pdb
+c:\users\ogrenci1\documents\visual studio 2013\Projects\E-Okul_Otomasyon\E-Okul_Otomasyon\obj\Debug\E-Okul_Otomasyon.csprojResolveAssemblyReference.cache
+c:\users\ogrenci1\documents\visual studio 2013\Projects\E-Okul_Otomasyon\E-Okul_Otomasyon\obj\Debug\E_Okul_Otomasyon.Form1.resources
+c:\users\ogrenci1\documents\visual studio 2013\Projects\E-Okul_Otomasyon\E-Okul_Otomasyon\obj\Debug\E_Okul_Otomasyon.Properties.Resources.resources
+c:\users\ogrenci1\documents\visual studio 2013\Projects\E-Okul_Otomasyon\E-Okul_Otomasyon\obj\Debug\E-Okul_Otomasyon.csproj.GenerateResource.Cache
+c:\users\ogrenci1\documents\visual studio 2013\Projects\E-Okul_Otomasyon\E-Okul_Otomasyon\obj\Debug\E-Okul_Otomasyon.exe
+c:\users\ogrenci1\documents\visual studio 2013\Projects\E-Okul_Otomasyon\E-Okul_Otomasyon\obj\Debug\E-Okul_Otomasyon.pdb
+C:\Users\Ogrenci1\Desktop\E-Okul_Otomasyon\E-Okul_Otomasyon\bin\Debug\E-Okul_Otomasyon.exe.config
+C:\Users\Ogrenci1\Desktop\E-Okul_Otomasyon\E-Okul_Otomasyon\obj\Debug\E-Okul_Otomasyon.exe
+C:\Users\Ogrenci1\Desktop\E-Okul_Otomasyon\E-Okul_Otomasyon\obj\Debug\E-Okul_Otomasyon.pdb
+C:\Users\Ogrenci1\Desktop\E-Okul_Otomasyon\E-Okul_Otomasyon\bin\Debug\E-Okul_Otomasyon.exe
+C:\Users\Ogrenci1\Desktop\E-Okul_Otomasyon\E-Okul_Otomasyon\bin\Debug\E-Okul_Otomasyon.pdb
+C:\Users\Ogrenci1\Desktop\E-Okul_Otomasyon\E-Okul_Otomasyon\obj\Debug\E-Okul_Otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Ogrenci1\Desktop\E-Okul_Otomasyon\E-Okul_Otomasyon\obj\Debug\E_Okul_Otomasyon.Properties.Resources.resources
+C:\Users\Ogrenci1\Desktop\E-Okul_Otomasyon\E-Okul_Otomasyon\obj\Debug\E-Okul_Otomasyon.csproj.GenerateResource.Cache
+C:\Users\Ogrenci1\Desktop\E-Okul_Otomasyon\E-Okul_Otomasyon\obj\Debug\E_Okul_Otomasyon.Ogrenci.resources
+C:\Users\Ogrenci1\Desktop\E-Okul_Otomasyon\E-Okul_Otomasyon\obj\Debug\E_Okul_Otomasyon.eokul.resources
+C:\Users\RAMAZAN\Desktop\E-Okul_Otomasyon\E-Okul_Otomasyon\bin\Debug\E-Okul_Otomasyon.exe.config
+C:\Users\RAMAZAN\Desktop\E-Okul_Otomasyon\E-Okul_Otomasyon\obj\Debug\E-Okul_Otomasyon.exe
+C:\Users\RAMAZAN\Desktop\E-Okul_Otomasyon\E-Okul_Otomasyon\obj\Debug\E-Okul_Otomasyon.pdb
+C:\Users\RAMAZAN\Desktop\E-Okul_Otomasyon\E-Okul_Otomasyon\bin\Debug\E-Okul_Otomasyon.exe
+C:\Users\RAMAZAN\Desktop\E-Okul_Otomasyon\E-Okul_Otomasyon\bin\Debug\E-Okul_Otomasyon.pdb
+C:\Users\RAMAZAN\Desktop\E-Okul_Otomasyon\E-Okul_Otomasyon\obj\Debug\E-Okul_Otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\E-Okul_Otomasyon\E-Okul_Otomasyon\obj\Debug\E_Okul_Otomasyon.eokul.resources
+C:\Users\RAMAZAN\Desktop\E-Okul_Otomasyon\E-Okul_Otomasyon\obj\Debug\E_Okul_Otomasyon.Ogrenci.resources
+C:\Users\RAMAZAN\Desktop\E-Okul_Otomasyon\E-Okul_Otomasyon\obj\Debug\E_Okul_Otomasyon.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\E-Okul_Otomasyon\E-Okul_Otomasyon\obj\Debug\E-Okul_Otomasyon.csproj.GenerateResource.Cache
+C:\Users\Ogrenci1\Desktop\E-Okul_Otomasyon\E-Okul_Otomasyon\obj\Debug\E_Okul_Otomasyon.Mudur.resources
+C:\Users\RAMAZAN\Desktop\E-Okul_Otomasyon\E-Okul_Otomasyon\obj\Debug\E_Okul_Otomasyon.Mudur.resources
+C:\Users\RAMAZAN\Desktop\E-Okul_Otomasyon\E-Okul_Otomasyon\obj\Debug\E_Okul_Otomasyon.Ogretmen.resources
+C:\Users\Ogrenci1\Desktop\E-Okul_Otomasyon\E-Okul_Otomasyon\obj\Debug\E_Okul_Otomasyon.Ogretmen.resources
